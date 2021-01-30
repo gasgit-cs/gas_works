@@ -8,7 +8,7 @@ username = input("Enter your name: ")
 print("Hello " + username)
 
 # print subsequnt message to user, get input and assign to userFullName
-userFullName = input("Enter your full name: ")
+user_full_name = input("Enter your full name: ")
 
 # print greeting message nad insert userFullName
-print("Hello " + userFullName + "\nNIce to meet you:)")
+print("Hello " + user_full_name + "\nNice to meet you:)")
